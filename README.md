@@ -1,4 +1,4 @@
-Media Player project
+Media Player project early code for Resonate
 
 This project uses
 
