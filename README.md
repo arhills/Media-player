@@ -1,3 +1,6 @@
+
+### <ins>This is now obsolete, do not use </ins>
+
 Media Player project early code for Resonate
 
 This project uses
